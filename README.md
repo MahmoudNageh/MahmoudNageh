@@ -6,14 +6,15 @@ Embedded Systems Engineer
 
 I'm an Ambitious Mechatronics Engineer, creative minded and result-oriented individual. Seeking the role of an Embedded Systems Engineer to strengthen my knowledge and satisfy my passion.
 
-* 🌍  I'm based in Abu Dhabi, UAE
-* 🖥️  See my portfolio at [My Portfolio](http://mahmoudnage7.editorx.io/portfolio)
-* ✉️  You can contact me at [mahmoudnage7@hotmail.com](mailto:mahmoudnage7@hotmail.com)
-* 🧠  I'm learning Robotics and ROS
-* 🤝  I'm open to collaborating on Embedded Systems Projects
-* ⚡  Don't tell anyone but I'm procrastinating from creating my own game by playing video games
+* 🌍  I'm based in Abu Dhabi, UAE
+* 🖥️  See my portfolio at [My Portfolio](http://mahmoudnage7.editorx.io/portfolio)
+* ✉️  You can contact me at [mahmoudnage7@hotmail.com](mailto:mahmoudnage7@hotmail.com)
+* 🧠  I'm learning Robotics and ROS
+* 🤝  I'm open to collaborating on Embedded Systems Projects
+* ⚡  Don't tell anyone but I'm procrastinating from creating my own game by playing video games
 
 ### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -21,9 +22,11 @@ I'm an Ambitious Mechatronics Engineer, creative minded and result-oriented indi
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/MahmoudNageh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahmoud-nageh-abdelkader" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -36,4 +39,4 @@ I'm an Ambitious Mechatronics Engineer, creative minded and result-oriented indi
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/MahmoudNageh/SPRINTS_RTOS_MC" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudNageh&repo=SPRINTS_RTOS_MC&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MahmoudNageh/LeetCode-Solutions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudNageh&repo=LeetCode-Solutions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/MahmoudNageh/EDF_freeRTOS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudNageh&repo=EDF_freeRTOS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MahmoudNageh/LeetCode-Solutions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudNageh&repo=LeetCode-Solutions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
